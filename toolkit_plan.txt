@@ -1,0 +1,52 @@
+PERSONAL MINI-TOOLKIT PLAN
+
+Project Title:
+Personal Mini-Toolkit
+
+TOOL 1 - SIMPLE CALCULATOR
+The calculator allows the user to enter two numbers and choose addition, subtraction, multiplication, or division.
+
+Concepts used:
+- Variables
+- Input and output
+- If / elif / else
+- Arithmetic operators
+- F-strings
+- Conditional checking for division by zero
+
+TOOL 2 - SHOPPING LIST
+The shopping list allows the user to add items, view all items, and remove items while the program is running.
+
+Concepts used:
+- Lists
+- append()
+- remove()
+- in
+- For loop
+- While loop
+- If / elif / else
+- F-strings
+
+TOOL 3 - EVEN OR ODD CHECKER
+The number checker asks the user for a number and tells them whether the number is even or odd.
+
+Concepts used:
+- Variables
+- Input and output
+- If / else
+- Modulo operator %
+- F-strings
+
+EXACT MAIN MENU
+
+========================================
+       WELCOME TO MY MINI-TOOLKIT
+========================================
+1. Simple Calculator
+2. Shopping List
+3. Even or Odd Checker
+4. Quit
+========================================
+
+The program will continue showing the menu until the user chooses option 4.
+If the user enters an invalid choice, the program will display a polite message and return to the menu.
